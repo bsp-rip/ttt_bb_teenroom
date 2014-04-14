@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METAL_DUCT_WALL_03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bb_teenroom_b2/c224_576_64"
+	}
+}

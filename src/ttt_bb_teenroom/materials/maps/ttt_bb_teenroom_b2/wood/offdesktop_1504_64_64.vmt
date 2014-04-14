@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/OFFDESKTOP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bb_teenroom_b2/c1504_64_64"
+	}
+}

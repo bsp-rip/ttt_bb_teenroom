@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bb_teenroom_b2/c1192_-488_200"
+		"$crackmaterial"		"maps/ttt_bb_teenroom_b2/glass/glasswindowbreak070b_1192_-488_200"
+	}
+}

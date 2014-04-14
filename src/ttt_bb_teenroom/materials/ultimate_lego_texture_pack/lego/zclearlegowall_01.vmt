@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "ultimate_lego_texture_pack/lego/zclearlegowall_01"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"$nocull" "1"
+	"%keywords" "ultp"
+}
+
+//Created//By//RoboTyphoon
+//http://steamcommunity.com/id/RoboTyphoon
